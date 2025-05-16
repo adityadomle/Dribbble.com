@@ -6,17 +6,14 @@ A simple front-end clone of the Dribbble landing page built using HTML and CSS. 
 
 Check it out here 👉 [Dribbble Clone Live](https://adityadomle.github.io/Dribbble.com/)
 
-## 🛠️ Built With
-
-- HTML5  
-- CSS3
-
 ## 📸 Preview
 
 ![Screenshot of the Dribbble Clone](Preview.png) 
 
-## 📂 Folder Structure
+## 🛠️ Built With
 
+- HTML5  
+- CSS3
 
 ## ✨ Features
 
