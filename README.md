@@ -17,7 +17,7 @@ Check it out here 👉 [Dribbble Clone Live](https://adityadomle.github.io/Dribb
 
 ## ✨ Features
 
-- Responsive design (if applicable)  
+- Responsive design
 - Clean and organized code  
 - Pixel-perfect recreation of the original Dribbble layout
 
